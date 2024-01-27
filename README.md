@@ -4,11 +4,11 @@
 RetailManagementSystem is an advanced Java application tailored for efficient retail store management. It integrates various aspects of retail operations into a cohesive system.
 
 ## Features
-- Daily Sales Tracking
-- Inventory Management
-- Purchase Order Handling
-- Supplier Information Management
-- Secure User Authentication
+- **Daily Sales Tracking**: Manage and record daily sales transactions.
+- **Inventory Management**: Keep track of inventory levels and update item details.
+- **Purchase Order Processing**: Handle creation and management of purchase orders.
+- **Supplier Management**: Maintain and manage supplier information.
+- **User Authentication**: Secure system access with role-based user authentication.
 
 ## How to Run
 1. **Install Java**: Ensure Java is installed on your system.
