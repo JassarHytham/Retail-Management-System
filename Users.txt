@@ -1,0 +1,9 @@
+U001 , qwWW12@@ased , Sales Manager , Qusai , 123232323 , KL
+U002 , 12QQ@@123456 , Purchase Manager , Quqqqqq , 123456789 , 111
+1 , 1 , Sales Manager , Qusai , 123232323 , KL
+2 , 2 , Purchase Manager , Khalid , 123232323 , KL
+3 , 3 , Administrator , Muayad , 123232323 , KL
+U0013 , Qpqpw12345 , Sales Manager , PPPPP , 145726356 , KL
+U006 , TP068741 , Sales Manager , Gassar , 123232323 , KL
+U007 , TP068742 , Administrator , Wan , 123456789 , Selangor
+
